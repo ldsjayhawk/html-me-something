@@ -458,19 +458,17 @@
   div.a{
     box-sizing: border-box;
     padding: 25px;
-    background-color:rgb(35, 35, 122);
-  }
+  } 
   div.box {
     box-sizing: border-box;
     padding: 25px;
     height: 400px;
     width: 45%;
-    border: .25em solid rgb(35, 35, 122);
     float: left;
   }
   h1{
     font-size: 48px;
-    color: rgb(190, 127, 233);
+    color: white;
     font-family: script, cursive;
     background-color:rgb(35, 35, 122);
   }
